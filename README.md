@@ -1,6 +1,5 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
-### [](https://github.com/)Recurso de aprendizaje de Cultura Digital
 
 Autor: Enrique García Cuadrado
 
