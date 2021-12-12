@@ -1,3 +1,11 @@
+# PEC3: Visionando el futuro con las gafas de Manovich
+
+### [](https://github.com/)Recurso de aprendizaje de Cultura Digital
+
+Autor: Enrique García Cuadrado
+
+Fecha: 11/12/2021
+
 # Historia y evolución de las divisas
 
 Antes de que existieran las monedas como método de pago para intercambiar productos o servicios, estos se intercambiaban entre ellos, y esto se conocía como trueque. Al ver que este sistema era ineficiente y no satisfacer la necesidad de cambio que se requería, se creó la moneda, algo con un valor tangible, ya que estaban fabricadas de metales preciosos como el **oro** y la **plata**, dos **recursos naturales limitados** y de los cuales no se pueden crear más de lo que ya existen en la tierra. 
@@ -31,3 +39,11 @@ Se acerca un nuevo concepto del que teníamos de los pagos y del uso del sistema
 ![mercados alcistas](https://cdn.pixabay.com/photo/2013/01/26/04/42/statistics-76197_960_720.jpg)
 
 Un gran paso que está dando la compañía de ***Whatsapp*** es implementar el **envío y recibo de criptoactivos** desde su aplicación, de momento solo esta probando esto en Estados Unidos, pero es algo que será una realidad para todos los usuarios en no mucho tiempo, y en nuestro caso sustituirá el uso de Bizum o de hacer transferencias bancarias. Como conclusión del ensayo, creo que acciones como esta o que todas las pequeñas y grandes tiendas empiecen a aceptar estos pagos, van a ser claves para esta adopción necesaria para cambiar el sistema monetario global, quedan muchos años, pero ya se están dando pasos de gigante y la **descentralización** se acerca.
+
+### Referencias y Bibliografía
+
+Wikipedia 1 [Consulta 11/12/2021] [https://es.wikipedia.org/wiki/Bitcoin](https://es.wikipedia.org/wiki/bitcoin%20)
+
+Wikipedia 2 [Consulta 11/12/2021] [https://es.wikipedia.org/wiki/Blockchain](https://es.wikipedia.org/wiki/blockchain%20)
+
+Manovich, Lev. "El software toma el mando" (2013) [Capítulos 3, 4 y 5]. PDF UOC
